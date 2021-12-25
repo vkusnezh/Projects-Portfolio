@@ -11,7 +11,7 @@ image.png
 Fig. 1.1. Fake news in Google trends
 
 References
-https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
-https://www.lexico.com/definition/fake_news
-https://doi.org/10.1093/acrefore/9780190228613.013.809
-Digital Journalism, 2018 Vol. 6, No. 2, 137–153, https://doi.org/10.1080/21670811.2017.1360143
+1. https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
+2. https://www.lexico.com/definition/fake_news
+3. https://doi.org/10.1093/acrefore/9780190228613.013.809
+4. Digital Journalism, 2018 Vol. 6, No. 2, 137–153, https://doi.org/10.1080/21670811.2017.1360143
