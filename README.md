@@ -1,4 +1,6 @@
 # Projects-Portfolio
+The goal of this project is to create a sand-box to play with building a models to classify a news as REAL or FAKE.
+
 Fake news definition
 Fake news - False information that is broadcast or published as news for fraudulent or politically motivated purposes [2].
 
